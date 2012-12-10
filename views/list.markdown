@@ -1,5 +1,5 @@
 # Wishlist 2012
 
-* [Raspberry Pi](http://www.raspberrypi.org/) with some accessories maybe like a little case for it
-* [Freedom Pop wifi hotspot](http://freedompop.com/) not that sleeve thing though there's like a little hockey puck looking thing
-* [The Revolution Was Televised](http://www.alansepinwall.com) (book)
+* [Freedom Pop wifi hotspot](http://freedompop.com/) maybe? idk
+* [The Revolution Was Televised](http://www.alansepinwall.com) -- a book
+* [Balloon Pop Outlaw Black](http://www.spdbooks.org/Producte/9780985118228/balloon-pop-outlaw-black.aspx) -- A book of poetry by a hilarious tweeter
