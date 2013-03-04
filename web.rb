@@ -4,7 +4,8 @@ require 'kramdown'
 
 get '/' do
   @title = 'Wish List'
-  @subtitle = '2012'
+  @subtitle = '2013'
+  @list = `curl https://dl.dropbox.com/u/41496/wishlist/list.md`
   erb :wishlist
 end
 
