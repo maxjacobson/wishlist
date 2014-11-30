@@ -4,7 +4,7 @@ require 'kramdown'
 require 'httparty'
 
 get '/' do
-  @title = 'Wish List 2014'
+  @title = "Wish List #{Time.now.year}"
   @list = HTTParty.get(ENV['WISHLIST_URL']).to_s
   erb :wishlist
 end
